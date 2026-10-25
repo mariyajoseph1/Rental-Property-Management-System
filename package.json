@@ -1,0 +1,8 @@
+{
+  "name": "rental-manager",
+  "private": true,
+  "scripts": {
+    "setup": "npm install --prefix server",
+    "dev": "npm start --prefix server"
+  }
+}
